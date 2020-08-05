@@ -60,5 +60,5 @@ categories: python
 실 사용에 부족함이 없을 정도로 개발하는 게 목표이며, 본 게시글도 상황에 맞추어 수정할 계획입니다.
 
 ## 참고 자료
-- https://doc.qt.io/qtforpython/tutorials/index.html
-- https://doc.qt.io/qtforpython/PySide2/QtWidgets/index.html#module-PySide2.QtWidgets
+- [PyQT 튜토리얼](https://doc.qt.io/qtforpython/tutorials/index.html)
+- [PyQT 공식 문서](https://doc.qt.io/qtforpython/PySide2/QtWidgets/index.html#module-PySide2.QtWidgets)
