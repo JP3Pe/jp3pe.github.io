@@ -21,7 +21,7 @@ categories: python
 본 게시글의 목적은 그래픽 프로그램의 개발 과정을 간단하게 설명 하는 겁니다.
 
 ## 완성된 모습
-![완성된 모습](https://github.com/JP3Pe/jp3pe.github.io/blob/master/_posts/file/image/2020-08-05-Github-markdown-converter-program_overview.png)
+![완성된 모습](./file/image2020-08-05-Github-markdown-converter-program_overview.png)
 텍스트를 입력한 다음에 입력된 텍스트 중 문법 변환을 원하는 한 줄을 드래그하고 좌측의 버튼을 클릭하면 변환이 완료됩니다.
 
 ## 개발 방법
@@ -32,7 +32,7 @@ categories: python
 
 프로그램 GUI를 위한 프레임워크들은 GUI 제작 도구를 주는 경우가 많습니다. 대표적인 경우가 Windows의 WinForm 같은 경우입니다.
 저는 QT 프레임워크를 사용했으며 QT를 활용한 디자인 방법은 다음과 같습니다.
-![Qt Designer 모습](https://github.com/JP3Pe/jp3pe.github.io/blob/master/_posts/file/image/2020-08-05-Github-markdown-converter-program_Qt_designer_overview.png)
+![Qt Designer 모습](./file/image/2020-08-05-Github-markdown-converter-program_Qt_designer_overview.png)
 직관적인 디자인 프로그램이라 큰 설명이 필요 없습니다.
 좌측 도구 창에서 원하는 것을 중앙에 위치시킨 다음 크기를 조절하고, 우측의 objectName 부분에 적당한 이름을 작명해 주면 됩니다.
 디자인이 완료된 경우 2가지 방법 중 1가지를 선택해 수행하면 됩니다.
